@@ -6,7 +6,7 @@
 <body>
 
 <section>
-    <p>Много-много полезной информации</p>
+    <p>Много-много полезной информации 123</p>
 </section>
 <?php include "footer.php"; ?>
 </body>
